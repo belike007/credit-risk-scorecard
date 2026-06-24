@@ -111,7 +111,7 @@ credit-risk-scorecard/
 ---
 
 ## Dataset
-LendingClub Loan Data (2007–2018) — Available on Kaggle
+[LendingClub Loan Data (2007–2018)](https://www.kaggle.com/datasets/wordsforthewise/lending-club) — Available on Kaggle
 
 ## Tools
 Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Pickle
